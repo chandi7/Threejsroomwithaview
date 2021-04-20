@@ -1,4 +1,4 @@
 # Threejsroomwithaview
 
 
-This is webGL demo of the room 
+This is webGL demo
